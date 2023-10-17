@@ -1,0 +1,23 @@
+#services-heading1,#contact-heading {
+    font-size: 30px;
+    color: rgb(36, 160, 237);
+    padding-top: 30px;
+    padding-bottom: 25px;
+    font-weight: bold;
+  }
+#motto {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(36, 160, 237);
+}
+.card-text{
+    font-weight: bold;
+    font-style: oblique;
+}
+.card-title{
+    font-weight: bold;
+}
+#myfooter{
+    opacity: 85%;
+   
+  }
