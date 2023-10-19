@@ -17,6 +17,15 @@
 .card-title{
     font-weight: bold;
 }
+.insights{
+    background-color: rgb(189, 187, 187);
+   margin-bottom: -3%;
+}
+.notice{
+    margin-top: 2%;
+    font-style: italic;
+    font-weight: 500;
+}
 #myfooter{
     opacity: 85%;
    
